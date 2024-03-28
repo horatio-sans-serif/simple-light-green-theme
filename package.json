@@ -1,0 +1,27 @@
+{
+  "name": "fictorial-light-green",
+  "displayName": "fictorial-light-green",
+  "description": "A light color scheme with emphasis on comments and strings and green hints.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "fictorial",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fictorial/fictorial-light-green-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fictorial Light (Green)",
+        "uiTheme": "vs",
+        "path": "./themes/fictorial-light-green-theme.json"
+      }
+    ]
+  }
+}
