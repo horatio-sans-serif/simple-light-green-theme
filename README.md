@@ -1,3 +1,3 @@
-# Fictorial Light (Green) Theme for VSCode
+# Simple Light (Green) Theme for VSCode
 
 ![](green.png)
